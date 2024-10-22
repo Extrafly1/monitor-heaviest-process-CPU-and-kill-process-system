@@ -47,7 +47,7 @@
 **Код**
 ------
 
-```markdown
+```python
 import psutil
 import time
 import ctypes
