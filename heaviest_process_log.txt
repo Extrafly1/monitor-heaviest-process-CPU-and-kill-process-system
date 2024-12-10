@@ -1,7 +1,0 @@
-PID: 18660, Name: python.exe, CPU Usage: 3.26%
-PID: 4, Name: System, CPU Usage: 0.0%
-PID: 17644, Name: python.exe, CPU Usage: 3.62%
-PID: 4, Name: System, CPU Usage: 0.0%
-PID: 4772, Name: python.exe, CPU Usage: 4.4%
-PID: 4, Name: System, CPU Usage: 0.0%
-PID: 3256, Name: python.exe, CPU Usage: 4.59%
