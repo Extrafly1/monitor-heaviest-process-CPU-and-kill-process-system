@@ -1,0 +1,595 @@
+PID: 18660, Name: python.exe, CPU Usage: 3.26%
+PID: 4, Name: System, CPU Usage: 0.0%
+PID: 17644, Name: python.exe, CPU Usage: 3.62%
+PID: 4, Name: System, CPU Usage: 0.0%
+PID: 4772, Name: python.exe, CPU Usage: 4.4%
+PID: 4, Name: System, CPU Usage: 0.0%
+PID: 3256, Name: python.exe, CPU Usage: 4.59%
+PID: 4, Name: System, CPU Usage: 0.0%, Path: 
+PID: 4916, Name: MicrosoftHost.exe, CPU Usage: 39.2%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.92%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 5336, Name: Taskmgr.exe, CPU Usage: 8.12%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.3%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 16652, Name: EpicGamesLauncher.exe, CPU Usage: 3.9%, Path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.15%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 11712, Name: Code.exe, CPU Usage: 3.59%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.3%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.16%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.16%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.33%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 5.57%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.3%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 20888, Name: MicrosoftHost.exe, CPU Usage: 32.37%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe
+PID: 4368, Name: Taskmgr.exe, CPU Usage: 8.85%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.86%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.78%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 4368, Name: Taskmgr.exe, CPU Usage: 3.67%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 3.33%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 21268, Name: Taskmgr.exe, CPU Usage: 4.94%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 4.83%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.4%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 14968, Name: MicrosoftHost.exe, CPU Usage: 39.67%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 14208, Name: Taskmgr.exe, CPU Usage: 9.89%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.94%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.47%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 19104, Name: MicrosoftHost.exe, CPU Usage: 40.0%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 9172, Name: Taskmgr.exe, CPU Usage: 8.4%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 8.1%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 3.26%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 16652, Name: EpicGamesLauncher.exe, CPU Usage: 3.98%, Path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.4%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 4596, Name: MicrosoftHost.exe, CPU Usage: 39.88%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 19596, Name: Taskmgr.exe, CPU Usage: 4.49%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 5568, Name: svchost.exe, CPU Usage: 5.45%, Path: C:\Windows\System32\svchost.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 19596, Name: Taskmgr.exe, CPU Usage: 4.33%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 6.59%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 3.23%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 3.61%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 16652, Name: EpicGamesLauncher.exe, CPU Usage: 4.89%, Path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 11204, Name: Taskmgr.exe, CPU Usage: 6.77%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 5.11%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 4.73%, Path: C:\Windows\explorer.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.97%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 3.56%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.15%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 12384, Name: Taskmgr.exe, CPU Usage: 8.81%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 3.37%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.0%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 5484, Name: Taskmgr.exe, CPU Usage: 8.48%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.0%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.78%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.78%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.84%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.84%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.84%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.76%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 5484, Name: Taskmgr.exe, CPU Usage: 3.59%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.87%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.64%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 20216, Name: chrome.exe, CPU Usage: 3.0%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.84%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.64%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.76%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.64%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 6356, Name: Taskmgr.exe, CPU Usage: 5.05%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.64%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.53%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 5.73%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.73%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.64%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.73%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 16652, Name: EpicGamesLauncher.exe, CPU Usage: 4.32%, Path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.81%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.73%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.81%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.81%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 11876, Name: Code.exe, CPU Usage: 3.45%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.78%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.7%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.89%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.7%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.43%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.16%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.08%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.16%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 11876, Name: Code.exe, CPU Usage: 4.25%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.43%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.56%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 11876, Name: Code.exe, CPU Usage: 5.2%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 18892, Name: Taskmgr.exe, CPU Usage: 6.91%, Path: C:\Windows\System32\Taskmgr.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.4%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.33%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.23%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.16%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.6%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.79%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 5004, Name: chrome.exe, CPU Usage: 5.2%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.16%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.16%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.16%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 5.15%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.33%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.16%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.08%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.26%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.37%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.3%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.01%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.08%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.19%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.12%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 4920, Name: python.exe, CPU Usage: 3.04%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 3.04%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 10076, Name: explorer.exe, CPU Usage: 4.73%, Path: C:\Windows\explorer.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 10612, Name: monitor_cpu.exe, CPU Usage: 2.94%, Path: C:\abc\fixing pc\фиксирование процессов\dist\monitor_cpu.exe
+PID: 11876, Name: Code.exe, CPU Usage: 3.23%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 7732, Name: Code.exe, CPU Usage: 4.02%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 4920, Name: python.exe, CPU Usage: 2.94%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe
+PID: 16996, Name: MicrosoftHost.exe, CPU Usage: 29.58%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 16996, Name: MicrosoftHost.exe, CPU Usage: 38.51%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 14800, Name: python.exe, CPU Usage: 3.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 20964, Name: Taskmgr.exe, CPU Usage: 7.5%, Path: C:\Windows\System32\Taskmgr.exe, Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 14800, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 20964, Name: Taskmgr.exe, CPU Usage: 3.11%, Path: C:\Windows\System32\Taskmgr.exe, Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 14800, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 21012, Name: chrome.exe, CPU Usage: 4.0%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe
+PID: 14800, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 21012, Name: chrome.exe, CPU Usage: 3.15%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe
+PID: 14800, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 21012, Name: chrome.exe, CPU Usage: 3.07%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe
+PID: 14800, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 21012, Name: chrome.exe, CPU Usage: 3.15%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe
+PID: 14800, Name: python.exe, CPU Usage: 2.7%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 21012, Name: chrome.exe, CPU Usage: 5.22%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe
+PID: 11876, Name: Code.exe, CPU Usage: 9.79%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PID: 14800, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 8024, Name: python.exe, CPU Usage: 3.77%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8216, Name: notepad.exe, CPU Usage: 4.35%, Path: C:\Windows\System32\notepad.exe, Parent Chain: Parent Name: python.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe -> Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20024, Name: MicrosoftHost.exe, CPU Usage: 39.78%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: AppHost.exe, Parent Path: C:\ProgramData\WindowsTask\AppHost.exe -> Parent Name: taskhost.exe, Parent Path: C:\ProgramData\ReaItekHD\taskhost.exe -> Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 5892, Name: MsMpEng.exe, CPU Usage: 14.44%, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24090.11-0\MsMpEng.exe, Parent Chain: Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 20616, Name: python.exe, CPU Usage: 4.24%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2960, Name: svchost.exe, CPU Usage: 7.34%, Path: C:\Windows\System32\svchost.exe, Parent Chain: Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 20616, Name: python.exe, CPU Usage: 4.18%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 22496, Name: steamwebhelper.exe, CPU Usage: 6.73%, Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe, Parent Chain: Parent Name: steamwebhelper.exe, Parent Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe -> Parent Name: steam.exe, Parent Path: C:\Program Files (x86)\Steam\steam.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 5892, Name: MsMpEng.exe, CPU Usage: 6.45%, Path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.24090.11-0\MsMpEng.exe, Parent Chain: Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 22396, Name: MicrosoftHost.exe, CPU Usage: 39.36%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: AppHost.exe, Parent Path: C:\ProgramData\WindowsTask\AppHost.exe -> Parent Name: taskhost.exe, Parent Path: C:\ProgramData\ReaItekHD\taskhost.exe -> Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 20616, Name: python.exe, CPU Usage: 3.12%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 6232, Name: Taskmgr.exe, CPU Usage: 10.54%, Path: C:\Windows\System32\Taskmgr.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 1596, Name: chrome.exe, CPU Usage: 4.89%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 21824, Name: chrome.exe, CPU Usage: 3.45%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Chain: Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 15684, Name: chrome.exe, CPU Usage: 6.63%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Chain: Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2736, Name: chrome.exe, CPU Usage: 3.33%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Chain: Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 4104, Name: chrome.exe, CPU Usage: 11.04%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Chain: Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.78%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 11832, Name: RuntimeBroker.exe, CPU Usage: 8.46%, Path: C:\Windows\System32\RuntimeBroker.exe, Parent Chain: Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 12076, Name: SearchApp.exe, CPU Usage: 5.66%, Path: C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe, Parent Chain: Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.89%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10528, Name: chrome.exe, CPU Usage: 2.92%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Chain: Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8044, Name: MicrosoftHost.exe, CPU Usage: 39.68%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: AppHost.exe, Parent Path: C:\ProgramData\WindowsTask\AppHost.exe -> Parent Name: taskhost.exe, Parent Path: C:\ProgramData\ReaItekHD\taskhost.exe -> Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 20616, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8524, Name: Taskmgr.exe, CPU Usage: 5.47%, Path: C:\Windows\System32\Taskmgr.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 17096, Name: EpicGamesLauncher.exe, CPU Usage: 3.45%, Path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 15684, Name: chrome.exe, CPU Usage: 4.79%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Chain: Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 16268, Name: MicrosoftHost.exe, CPU Usage: 39.88%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: AppHost.exe, Parent Path: C:\ProgramData\WindowsTask\AppHost.exe -> Parent Name: taskhost.exe, Parent Path: C:\ProgramData\ReaItekHD\taskhost.exe -> Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 20616, Name: python.exe, CPU Usage: 3.6%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8304, Name: Taskmgr.exe, CPU Usage: 8.45%, Path: C:\Windows\System32\Taskmgr.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.97%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8304, Name: Taskmgr.exe, CPU Usage: 4.07%, Path: C:\Windows\System32\Taskmgr.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.81%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8304, Name: Taskmgr.exe, CPU Usage: 3.22%, Path: C:\Windows\System32\Taskmgr.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 15684, Name: chrome.exe, CPU Usage: 3.59%, Path: C:\Program Files\Google\Chrome\Application\chrome.exe, Parent Chain: Parent Name: chrome.exe, Parent Path: C:\Program Files\Google\Chrome\Application\chrome.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 19984, Name: MicrosoftHost.exe, CPU Usage: 40.02%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: AppHost.exe, Parent Path: C:\ProgramData\WindowsTask\AppHost.exe -> Parent Name: taskhost.exe, Parent Path: C:\ProgramData\ReaItekHD\taskhost.exe -> Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 8832, Name: Taskmgr.exe, CPU Usage: 8.19%, Path: C:\Windows\System32\Taskmgr.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8832, Name: Taskmgr.exe, CPU Usage: 3.96%, Path: C:\Windows\System32\Taskmgr.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.38%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8140, Name: MicrosoftHost.exe, CPU Usage: 39.99%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: AppHost.exe, Parent Path: C:\ProgramData\WindowsTask\AppHost.exe -> Parent Name: taskhost.exe, Parent Path: C:\ProgramData\ReaItekHD\taskhost.exe -> Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 20616, Name: python.exe, CPU Usage: 3.72%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Нет данных о родителях
+PID: 1668, Name: Taskmgr.exe, CPU Usage: 7.89%, Path: C:\Windows\System32\Taskmgr.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.64%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Нет данных о родителях
+PID: 17096, Name: EpicGamesLauncher.exe, CPU Usage: 2.59%, Path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Нет данных о родителях
+PID: 10776, Name: svchost.exe, CPU Usage: 2.71%, Path: C:\Windows\System32\svchost.exe, Parent Chain: Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Нет данных о родителях
+PID: 17096, Name: EpicGamesLauncher.exe, CPU Usage: 2.67%, Path: C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe, Parent Chain: Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 20616, Name: python.exe, CPU Usage: 2.38%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Нет данных о родителях
+PID: 14168, Name: MicrosoftHost.exe, CPU Usage: 40.01%, Path: C:\ProgramData\WindowsTask\MicrosoftHost.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: AppHost.exe, Parent Path: C:\ProgramData\WindowsTask\AppHost.exe -> Parent Name: taskhost.exe, Parent Path: C:\ProgramData\ReaItekHD\taskhost.exe -> Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 9736, Name: Code.exe, CPU Usage: 10.43%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 18208, Name: P1oeXcoTnM2.exe, CPU Usage: 10.51%, Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\P1oeXcoTnM2.exe, Parent Chain: Parent Name: kcy61oa7.exe, Parent Path: C:\Users\Extrafly\Downloads\Telegram Desktop\kcy61oa7.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8656, Name: python.exe, CPU Usage: 2.56%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 18776, Name: 510QIcALmuo.exe, CPU Usage: 4.66%, Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\510QIcALmuo.exe, Parent Chain: Parent Name: P1oeXcoTnM2.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\P1oeXcoTnM2.exe -> Parent Name: kcy61oa7.exe, Parent Path: C:\Users\Extrafly\Downloads\Telegram Desktop\kcy61oa7.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8656, Name: python.exe, CPU Usage: 2.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 6544, Name: Code.exe, CPU Usage: 5.23%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 3704, Name: Code.exe, CPU Usage: 4.83%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2068, Name: dwm.exe, CPU Usage: 5.7%, Path: C:\Windows\System32\dwm.exe, Parent Chain: Parent Name: winlogon.exe, Parent Path: C:\Windows\System32\winlogon.exe
+PID: 6544, Name: Code.exe, CPU Usage: 5.29%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8656, Name: python.exe, CPU Usage: 2.67%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 6544, Name: Code.exe, CPU Usage: 4.88%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2068, Name: dwm.exe, CPU Usage: 2.98%, Path: C:\Windows\System32\dwm.exe, Parent Chain: Parent Name: winlogon.exe, Parent Path: C:\Windows\System32\winlogon.exe
+PID: 18776, Name: 510QIcALmuo.exe, CPU Usage: 5.62%, Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\510QIcALmuo.exe, Parent Chain: Parent Name: P1oeXcoTnM2.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\P1oeXcoTnM2.exe -> Parent Name: kcy61oa7.exe, Parent Path: C:\Users\Extrafly\Downloads\Telegram Desktop\kcy61oa7.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8656, Name: python.exe, CPU Usage: 2.56%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 18776, Name: 510QIcALmuo.exe, CPU Usage: 4.66%, Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\510QIcALmuo.exe, Parent Chain: Parent Name: P1oeXcoTnM2.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\P1oeXcoTnM2.exe -> Parent Name: kcy61oa7.exe, Parent Path: C:\Users\Extrafly\Downloads\Telegram Desktop\kcy61oa7.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8656, Name: python.exe, CPU Usage: 2.44%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 18776, Name: 510QIcALmuo.exe, CPU Usage: 4.71%, Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\510QIcALmuo.exe, Parent Chain: Parent Name: P1oeXcoTnM2.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\P1oeXcoTnM2.exe -> Parent Name: kcy61oa7.exe, Parent Path: C:\Users\Extrafly\Downloads\Telegram Desktop\kcy61oa7.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8656, Name: python.exe, CPU Usage: 2.56%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 18776, Name: 510QIcALmuo.exe, CPU Usage: 5.23%, Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\510QIcALmuo.exe, Parent Chain: Parent Name: P1oeXcoTnM2.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Temp\32D0627C-1186E6F9-3016A46A-1A9E8B70\P1oeXcoTnM2.exe -> Parent Name: kcy61oa7.exe, Parent Path: C:\Users\Extrafly\Downloads\Telegram Desktop\kcy61oa7.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 8656, Name: python.exe, CPU Usage: 2.56%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 11312, Name: python.exe, CPU Usage: 2.59%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 18732, Name: python.exe, CPU Usage: 2.74%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: cmd.exe, Parent Path: C:\Windows\System32\cmd.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 6776, Name: python.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 11624, Name: RuntimeBroker.exe, CPU Usage: 5.47%, Path: C:\Windows\System32\RuntimeBroker.exe, Parent Chain: Parent Name: svchost.exe, Parent Path: C:\Windows\System32\svchost.exe -> Parent Name: services.exe, Parent Path: C:\Windows\System32\services.exe -> Parent Name: wininit.exe, Parent Path: C:\Windows\System32\wininit.exe
+PID: 6776, Name: python.exe, CPU Usage: 2.64%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10056, Name: Code.exe, CPU Usage: 3.26%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 6776, Name: python.exe, CPU Usage: 2.35%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10056, Name: Code.exe, CPU Usage: 4.02%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 3752, Name: language_server_windows_x64.exe, CPU Usage: 3.95%, Path: C:\Users\Extrafly\.vscode\extensions\codeium.codeium-1.24.8\dist\ef806f7cf5ef5903f9da0506527ae0e7897e84db\language_server_windows_x64.exe, Parent Chain: Parent Name: language_server_windows_x64.exe, Parent Path: C:\Users\Extrafly\.vscode\extensions\codeium.codeium-1.24.8\dist\ef806f7cf5ef5903f9da0506527ae0e7897e84db\language_server_windows_x64.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 6776, Name: python.exe, CPU Usage: 2.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 3752, Name: language_server_windows_x64.exe, CPU Usage: 6.48%, Path: C:\Users\Extrafly\.vscode\extensions\codeium.codeium-1.24.8\dist\ef806f7cf5ef5903f9da0506527ae0e7897e84db\language_server_windows_x64.exe, Parent Chain: Parent Name: language_server_windows_x64.exe, Parent Path: C:\Users\Extrafly\.vscode\extensions\codeium.codeium-1.24.8\dist\ef806f7cf5ef5903f9da0506527ae0e7897e84db\language_server_windows_x64.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 6776, Name: python.exe, CPU Usage: 2.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10056, Name: Code.exe, CPU Usage: 4.66%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 6776, Name: python.exe, CPU Usage: 2.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 7968, Name: python.exe, CPU Usage: 3.55%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 7808, Name: python.exe, CPU Usage: 3.19%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 4, Name: System, CPU Usage: 0.0%, Path: , Parent Chain: Parent Name: System Idle Process, Parent Path: Недоступно
+PID: 2120, Name: python.exe, CPU Usage: 4.34%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10056, Name: Code.exe, CPU Usage: 10.1%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2120, Name: python.exe, CPU Usage: 2.94%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10056, Name: Code.exe, CPU Usage: 7.38%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2120, Name: python.exe, CPU Usage: 2.29%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10056, Name: Code.exe, CPU Usage: 2.5%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2120, Name: python.exe, CPU Usage: 2.2%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10056, Name: Code.exe, CPU Usage: 3.18%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2120, Name: python.exe, CPU Usage: 2.47%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 10056, Name: Code.exe, CPU Usage: 3.73%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2120, Name: python.exe, CPU Usage: 2.29%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 3752, Name: language_server_windows_x64.exe, CPU Usage: 3.93%, Path: C:\Users\Extrafly\.vscode\extensions\codeium.codeium-1.24.8\dist\ef806f7cf5ef5903f9da0506527ae0e7897e84db\language_server_windows_x64.exe, Parent Chain: Parent Name: language_server_windows_x64.exe, Parent Path: C:\Users\Extrafly\.vscode\extensions\codeium.codeium-1.24.8\dist\ef806f7cf5ef5903f9da0506527ae0e7897e84db\language_server_windows_x64.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 3460, Name: Code.exe, CPU Usage: 2.7%, Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe, Parent Chain: Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 2120, Name: python.exe, CPU Usage: 2.56%, Path: C:\Users\Extrafly\AppData\Local\Programs\Python\Python312\python.exe, Parent Chain: Parent Name: powershell.exe, Parent Path: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: Code.exe, Parent Path: C:\Users\Extrafly\AppData\Local\Programs\Microsoft VS Code\Code.exe -> Parent Name: explorer.exe, Parent Path: C:\Windows\explorer.exe
+PID: 4, Name: System, CPU Usage: 0.0%
+PID: 5980, Name: python.exe, CPU Usage: 4.12%
+PID: 13608, Name: chrome.exe, CPU Usage: 3.19%
+PID: 3384, Name: language_server_windows_x64.exe, CPU Usage: 4.49%
+PID: 15948, Name: Code.exe, CPU Usage: 4.19%
+PID: 5980, Name: python.exe, CPU Usage: 2.81%
+PID: 4, Name: System, CPU Usage: 0.0%
+PID: 4956, Name: python.exe, CPU Usage: 3.79%
+PID: 4, Name: System, CPU Usage: 0.0%
+PID: 3992, Name: python.exe, CPU Usage: 4.13%
+PID: 964, Name: csrss.exe, CPU Usage: 3.3%
+PID: 3992, Name: python.exe, CPU Usage: 2.61%
+PID: 15948, Name: Code.exe, CPU Usage: 4.48%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 3.49%
+PID: 15948, Name: Code.exe, CPU Usage: 3.04%
+PID: 11744, Name: Code.exe, CPU Usage: 4.48%
+PID: 14748, Name: python.exe, CPU Usage: 2.79%
+PID: 11744, Name: Code.exe, CPU Usage: 4.11%
+PID: 14748, Name: python.exe, CPU Usage: 3.02%
+PID: 11744, Name: Code.exe, CPU Usage: 3.48%
+PID: 14748, Name: python.exe, CPU Usage: 2.79%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 11744, Name: Code.exe, CPU Usage: 5.17%
+PID: 14748, Name: python.exe, CPU Usage: 2.64%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.87%
+PID: 11744, Name: Code.exe, CPU Usage: 3.59%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 11744, Name: Code.exe, CPU Usage: 6.37%
+PID: 14748, Name: python.exe, CPU Usage: 2.95%
+PID: 3384, Name: language_server_windows_x64.exe, CPU Usage: 3.0%
+PID: 14748, Name: python.exe, CPU Usage: 2.81%
+PID: 3992, Name: python.exe, CPU Usage: 2.89%
+PID: 11744, Name: Code.exe, CPU Usage: 6.37%
+PID: 14748, Name: python.exe, CPU Usage: 2.87%
+PID: 11744, Name: Code.exe, CPU Usage: 3.22%
+PID: 14748, Name: python.exe, CPU Usage: 3.08%
+PID: 11744, Name: Code.exe, CPU Usage: 4.0%
+PID: 14748, Name: python.exe, CPU Usage: 2.89%
+PID: 3992, Name: python.exe, CPU Usage: 2.89%
+PID: 11744, Name: Code.exe, CPU Usage: 3.0%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 11744, Name: Code.exe, CPU Usage: 5.22%
+PID: 3992, Name: python.exe, CPU Usage: 2.89%
+PID: 14748, Name: python.exe, CPU Usage: 2.47%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 14748, Name: python.exe, CPU Usage: 2.71%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.58%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.7%
+PID: 3992, Name: python.exe, CPU Usage: 2.47%
+PID: 14748, Name: python.exe, CPU Usage: 2.59%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 3.14%
+PID: 15948, Name: Code.exe, CPU Usage: 3.71%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 14748, Name: python.exe, CPU Usage: 2.95%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.84%
+PID: 3992, Name: python.exe, CPU Usage: 2.61%
+PID: 14748, Name: python.exe, CPU Usage: 2.84%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 15948, Name: Code.exe, CPU Usage: 5.05%
+PID: 3992, Name: python.exe, CPU Usage: 2.89%
+PID: 14748, Name: python.exe, CPU Usage: 2.73%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.81%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 15948, Name: Code.exe, CPU Usage: 3.79%
+PID: 11744, Name: Code.exe, CPU Usage: 3.26%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 14748, Name: python.exe, CPU Usage: 2.73%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.7%
+PID: 3384, Name: language_server_windows_x64.exe, CPU Usage: 3.03%
+PID: 11400, Name: python.exe, CPU Usage: 9.66%
+PID: 14748, Name: python.exe, CPU Usage: 2.59%
+PID: 3992, Name: python.exe, CPU Usage: 2.44%
+PID: 14748, Name: python.exe, CPU Usage: 2.62%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.81%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.64%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 14748, Name: python.exe, CPU Usage: 2.64%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 14748, Name: python.exe, CPU Usage: 2.56%
+PID: 3992, Name: python.exe, CPU Usage: 2.47%
+PID: 14748, Name: python.exe, CPU Usage: 2.59%
+PID: 3992, Name: python.exe, CPU Usage: 2.47%
+PID: 14748, Name: python.exe, CPU Usage: 2.5%
+PID: 3992, Name: python.exe, CPU Usage: 2.47%
+PID: 14748, Name: python.exe, CPU Usage: 2.59%
+PID: 3992, Name: python.exe, CPU Usage: 2.47%
+PID: 14748, Name: python.exe, CPU Usage: 2.62%
+PID: 3992, Name: python.exe, CPU Usage: 2.47%
+PID: 14748, Name: python.exe, CPU Usage: 2.62%
+PID: 3992, Name: python.exe, CPU Usage: 2.47%
+PID: 14748, Name: python.exe, CPU Usage: 2.62%
+PID: 3992, Name: python.exe, CPU Usage: 2.56%
+PID: 14748, Name: python.exe, CPU Usage: 2.87%
+PID: 3992, Name: python.exe, CPU Usage: 3.12%
+PID: 15948, Name: Code.exe, CPU Usage: 3.11%
+PID: 3992, Name: python.exe, CPU Usage: 2.89%
+PID: 1988, Name: OneDrive.exe, CPU Usage: 3.08%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 14748, Name: python.exe, CPU Usage: 2.64%
+PID: 15948, Name: Code.exe, CPU Usage: 3.86%
+PID: 14748, Name: python.exe, CPU Usage: 2.64%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 14748, Name: python.exe, CPU Usage: 2.91%
+PID: 15948, Name: Code.exe, CPU Usage: 2.89%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 15948, Name: Code.exe, CPU Usage: 4.09%
+PID: 14748, Name: python.exe, CPU Usage: 2.5%
+PID: 3992, Name: python.exe, CPU Usage: 2.73%
+PID: 14748, Name: python.exe, CPU Usage: 2.91%
+PID: 15948, Name: Code.exe, CPU Usage: 4.09%
+PID: 14748, Name: python.exe, CPU Usage: 2.74%
+PID: 3992, Name: python.exe, CPU Usage: 2.56%
+PID: 9428, Name: Code.exe, CPU Usage: 10.0%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 14748, Name: python.exe, CPU Usage: 2.59%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 14748, Name: python.exe, CPU Usage: 2.76%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 14748, Name: python.exe, CPU Usage: 3.0%
+PID: 9428, Name: Code.exe, CPU Usage: 6.45%
+PID: 14748, Name: python.exe, CPU Usage: 2.95%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 15948, Name: Code.exe, CPU Usage: 3.48%
+PID: 14748, Name: python.exe, CPU Usage: 2.73%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 14748, Name: python.exe, CPU Usage: 2.89%
+PID: 3992, Name: python.exe, CPU Usage: 2.78%
+PID: 14748, Name: python.exe, CPU Usage: 2.73%
+PID: 9428, Name: Code.exe, CPU Usage: 7.25%
+PID: 15948, Name: Code.exe, CPU Usage: 3.51%
+PID: 3992, Name: python.exe, CPU Usage: 2.81%
+PID: 14748, Name: python.exe, CPU Usage: 2.64%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 15948, Name: Code.exe, CPU Usage: 3.52%
+PID: 3992, Name: python.exe, CPU Usage: 2.64%
+PID: 14748, Name: python.exe, CPU Usage: 2.64%
